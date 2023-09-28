@@ -8,7 +8,7 @@ const lowerCaseLetters="abcdefghijklmnopqrstuvwxyz";
 const numbers="0123456789";
 const symbols="!@#$%^&*()_+=";
 
-
+// This is used to create password when generate button is clicked
 
 function createpassword()
 {
